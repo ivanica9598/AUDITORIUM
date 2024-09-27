@@ -14,4 +14,4 @@ snimka instrumentala (karaoke).
 2. [Backend](https://github.com/ficakum/IntSysBackend)
 3. [Frontend](https://github.com/ficakum/intsysfrontend)
 
-[Prezentacija i demo snimak](https://drive.google.com/drive/folders/15k26QIBd0M5kP5kFZ5H_RdO8UQ_u8OrD?usp=sharing)
+[Demo snimak](https://drive.google.com/file/d/1NQc2uUnXEg4hVORQSxj47w49bpZPC5Xx/view?usp=sharing)
